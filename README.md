@@ -14,7 +14,14 @@ Hope you will learn something new today , wish you good luck 👍
 
 ## Set up
 
-First of all you have to install editor which you can download from this link <a href="https://visualstudio.microsoft.com/vs/community/"> Visual studio code</a>
+First of all you have to install editor which you can download from this link <a href="https://visualstudio.microsoft.com/vs/community/"> Visual studio code</a>.
+Furthermore you'll need to install <a href="https://dotnet.microsoft.com/download"> .Net</a> which is a free, cross-platform, open source developer platform for building many different types of applications.
+Once you have installed Visual Studio code on the left panel you'll see `extensions icon` press it and search for `C#` extension from Microsoft, install it.
+
+If you successfully installed all prerequisites, type in your terminal `dotnet` to see if it runs correctly.
+
+_Are you done yet installing ? If so , let's try to code something!_
+<img src="gif.gif" alt="excited Jonah Hill">
 
 ### Try it yourself
 
