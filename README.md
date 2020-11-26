@@ -17,7 +17,7 @@ Hope you will learn something new today , wish you good luck 👍
 First of all you have to install editor which you can download from this link <a href="https://visualstudio.microsoft.com/vs/community/"> Visual studio code</a>.
 Furthermore you'll need to install <a href="https://dotnet.microsoft.com/download"> .Net</a> which is a free, cross-platform, open source developer platform for building many different types of applications.If you successfully installed , type in your terminal `dotnet` to see if it runs correctly.
 Output should be like this:
-<img src="images/output.jpg">
+<img src="images/output.jpg" width="300">
 <br>
 Once you have installed Visual Studio code on the left panel you'll see `extensions icon` press it and search for `C#` extension from Microsoft, install it.
 
