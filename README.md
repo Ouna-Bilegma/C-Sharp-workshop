@@ -31,7 +31,9 @@ Create new folder and open it in Vscode, you can name it how you want,
 Open Terminal in Vscode and type dotnet new console
 ```
 
-You'll see that new folder appears in your workplace named `obj` type in the terminal `dotnet run` to run the code from new folder.
+You'll see that new folder appears in your workplace named `obj`.
+Type in the terminal `dotnet run` to run the code from new folder.
+In the terminal you'll see `Hello World!`
 
 ## Some useful resources
 
