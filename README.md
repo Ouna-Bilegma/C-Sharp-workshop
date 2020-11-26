@@ -24,27 +24,17 @@ Once you have installed Visual Studio code on the left panel you'll see `extensi
 _Are you done yet installing ? If so , let's try to code something!_
 ![excited](images/gif.gif)
 
-### Try it yourself
+## Try it yourself
 
 ```
 Create new folder and open it in Vscode, you can name it how you want,
-Open Terminal in Vscode and type *dotnet new console*
+Open Terminal in Vscode and type dotnet new console
+```
 
+You'll see that new folder appears in your workplace named `obj` type in the terminal `dotnet run` to run the code from new folder.
 
+## Some useful resources
 
-
-### Some useful resources
-
-
-### Challenge
-
-
-
-
-
-
-
-
+## Challenge
 
 ### Useful resources
-```
