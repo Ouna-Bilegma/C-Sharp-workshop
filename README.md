@@ -20,6 +20,7 @@ Output should be like this:
 <img src="images/output.jpg" width="300">
 <br>
 Once you have installed Visual Studio code on the left panel you'll see `extensions icon` press it and search for `C#` extension from Microsoft, install it.
+Also you can download <a href="https://visualstudio.microsoft.com/downloads/"> Visual studio 2019</a> which is great IDE for not only `C#` but for many others programming languages.
 
 _Are you done yet installing ? If so , let's try to code something!_
 ![excited](images/gif.gif)
