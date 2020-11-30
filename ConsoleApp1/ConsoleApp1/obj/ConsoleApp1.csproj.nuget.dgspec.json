@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\32456\\Desktop\\projects\\C-Sharp-workshop\\C-Sharp-workshop.csproj": {}
+    "C:\\Users\\32456\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\32456\\Desktop\\projects\\C-Sharp-workshop\\C-Sharp-workshop.csproj": {
+    "C:\\Users\\32456\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\32456\\Desktop\\projects\\C-Sharp-workshop\\C-Sharp-workshop.csproj",
-        "projectName": "C-Sharp-workshop",
-        "projectPath": "c:\\Users\\32456\\Desktop\\projects\\C-Sharp-workshop\\C-Sharp-workshop.csproj",
+        "projectUniqueName": "C:\\Users\\32456\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\32456\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\32456\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\32456\\Desktop\\projects\\C-Sharp-workshop\\obj\\",
+        "outputPath": "C:\\Users\\32456\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32456\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
