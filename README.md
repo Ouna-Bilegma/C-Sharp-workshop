@@ -22,7 +22,7 @@ Output should be like this:
 Once you have installed Visual Studio code on the left panel you'll see `extensions icon` press it and search for `C#` extension from Microsoft, install it.
 Also you can download <a href="https://visualstudio.microsoft.com/downloads/"> Visual studio 2019</a> which is great IDE for not only `C#` but for many others programming languages.
 If you want to work with Visual studio 2019 follow steps from this link <a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019">create console app</a>.
-<br>
+<br></br>
 _Are you done yet installing ? If so , let's try to code something!_
 
 
