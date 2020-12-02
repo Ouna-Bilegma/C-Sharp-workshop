@@ -42,7 +42,8 @@ In the terminal you'll see `Hello World!`
 
 **Congratulations you just ran your first C# line of code!**
 
-## Some useful resources
+## Guessing game !
+Open file `guessNumber.cs` (you will see it in the top of this repo) and copy paste code in your VScode, you will see some comments there , try to finish the game and share your result with the rest! Good luck :muscle:
 
 ## Challenge
 
