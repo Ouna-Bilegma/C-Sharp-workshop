@@ -17,13 +17,13 @@ Hope you will learn something new today , wish you good luck 👍
 First of all you have to install editor which you can download from this link <a href="https://visualstudio.microsoft.com/vs/community/"> Visual studio code</a>.
 Furthermore you'll need to install <a href="https://dotnet.microsoft.com/download"> .Net</a> which is a free, cross-platform, open source developer platform for building many different types of applications.If you successfully installed , type in your terminal `dotnet` to see if it runs correctly.
 Output should be like this:
-<br></br>
+<hr>
 <img src="images/output.jpg" width="300">
 ##
 Once you have installed Visual Studio code on the left panel you'll see `extensions icon` press it and search for `C#` extension from Microsoft, install it.
 Also you can download <a href="https://visualstudio.microsoft.com/downloads/"> Visual studio 2019</a> which is great IDE for not only `C#` but for many others programming languages.
 If you want to work with Visual studio 2019 follow steps from this link <a href="https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-console?view=vs-2019">create console app</a>.
-<br></br>
+<hr>
 _Are you done yet installing ? If so , let's try to code something!_
 ##
 
@@ -43,13 +43,16 @@ In the terminal you'll see `Hello World!`
 **Congratulations you just ran your first C# line of code!**
 
 
-##Variables!
+## Variables!
+<hr>
 Variables are the bread and butter of every programming language. They keep everything well organized  and straight. Variables are containers which allow a program to store different pieces of information inside of them. Once the information is stored inside the variable, that information can then be accessed throughout the program simply by referring to the variable's name.
 Look at situation where you will need to use variables:
+<br>
 `Console.WriteLine("There once was a girl named Karen");
 Console.WriteLine("She was 10 years old");
 Console.WriteLine("She really didn't liked the name Karen");
 Console.WriteLine("But she was enjoying being 10");`
+<br>
 Now a small `challenge` for you: add varibales to the story. Remember that variables are basically containers where we can store information like character's age and name.So your task is create variables for name and age and implement it in our code. Good luck !
 **Ready? Share your solution with the rest
 ## Guessing game !
