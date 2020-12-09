@@ -91,6 +91,12 @@ Now continue to store ``pluralNoun`` and `` celebrity``
 ## Guessing game !
 Open file `guessNumber.cs` (you will see it in the top of this repo) and copy paste code in your VScode, you will see some comments there , try to finish the game and share your result with the rest! Good luck :muscle:
 
-## Challenge
 
 ### Useful resources
+<ul>
+  <li><a href="https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw">.NET</a>.</li>
+  <li><a href="https://www.w3schools.com/cs/default.asp">C# tutorial from W3schools</a>.</li>
+  <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/">Microsoft C# documentation</a>.</li>
+</ul>  
+
+## Thank you for attending my workshop :heart:
