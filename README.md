@@ -55,8 +55,38 @@ Console.WriteLine("But she was enjoying being 10");
 ```
 <br></br>
 Now a small `challenge` for you: add varibales to the story. Remember that variables are basically containers where we can store information like character's age and name.So your task is create variables for name and age and implement it in our code. Good luck !
-**Ready? Share your solution with the rest
+
+**Ready? Share your solution with the rest**
 <br>
+
+## Mad lib game!
+I'm pretty sure everyone knows this funny game when you have to fill in the text some random verbs or nouns or adjectives , what if we will recreate this game with our code ? Sounds fun ? Let's try
+```
+using System;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          
+            Console.WriteLine("Roses are red");
+
+            Console.WriteLine("Violets are blue");
+
+            Console.WriteLine("I love you");
+
+
+        }
+    }
+
+}
+```
+So think , what info we can store ? Correct , let's store color, pluralNoun and a celebrity. Done? Now let's ask user to fill color  - ``Console.Write("Enter color: ");`` after our prompt we wanna wait for user to enter so we use ``console.ReadLine();`` 
+Basically it will pause the program and wait for user to enter the word. 
+<br>
+Now continue to store ``pluralNoun`` and `` celebrity`` 
 
 ## Guessing game !
 Open file `guessNumber.cs` (you will see it in the top of this repo) and copy paste code in your VScode, you will see some comments there , try to finish the game and share your result with the rest! Good luck :muscle:
