@@ -47,6 +47,11 @@ In the terminal you'll see `Hello World!`
 Variables are the bread and butter of every programming language. They keep everything well organized  and straight. Variables are containers which allow a program to store different pieces of information inside of them. Once the information is stored inside the variable, that information can then be accessed throughout the program simply by referring to the variable's name.
 Look at situation where you will need to use variables:
 <br>
+<ul style="list-style-type:none;">
+  <li>Console.WriteLine("There once was a girl named Karen");</li>
+  <li>Console.WriteLine("She was 10 years old");</li>
+  <li>Console.WriteLine("She really didn't liked the name Karen");</li>
+</ul>  
 `Console.WriteLine("There once was a girl named Karen");
 Console.WriteLine("She was 10 years old");
 Console.WriteLine("She really didn't liked the name Karen");
