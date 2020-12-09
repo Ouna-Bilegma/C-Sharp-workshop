@@ -44,7 +44,6 @@ In the terminal you'll see `Hello World!`
 
 
 ## Variables!
-<br></br>
 Variables are the bread and butter of every programming language. They keep everything well organized  and straight. Variables are containers which allow a program to store different pieces of information inside of them. Once the information is stored inside the variable, that information can then be accessed throughout the program simply by referring to the variable's name.
 Look at situation where you will need to use variables:
 <br>
@@ -55,6 +54,8 @@ Console.WriteLine("But she was enjoying being 10");`
 <br>
 Now a small `challenge` for you: add varibales to the story. Remember that variables are basically containers where we can store information like character's age and name.So your task is create variables for name and age and implement it in our code. Good luck !
 **Ready? Share your solution with the rest
+<br>
+
 ## Guessing game !
 Open file `guessNumber.cs` (you will see it in the top of this repo) and copy paste code in your VScode, you will see some comments there , try to finish the game and share your result with the rest! Good luck :muscle:
 
